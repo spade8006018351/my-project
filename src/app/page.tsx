@@ -62,8 +62,8 @@ export default function Home() {
   <Image
     src="/Anuj.png"
     alt="Anuj Kushwah"
-    width={430}
-    height={600}
+    width={500}
+    height={700}
     className="object-contain"
   />
 </div>
