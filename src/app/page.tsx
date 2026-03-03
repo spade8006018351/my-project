@@ -80,7 +80,7 @@ export default function Home() {
             ))}
           </div>
           <h1 className="text-[32px] font-bold text-[#171717] leading-none whitespace-nowrap">
-            10 Years
+            1+ Years
           </h1>
           <p className="text-sm text-[#171717]">Experience</p>
         </div>
