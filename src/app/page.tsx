@@ -206,7 +206,7 @@ export default function Home() {
           </div>
 
           <p className="text-[#98A2B3] text-base sm:text-lg lg:text-xl leading-relaxed max-w-md">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacus nunc, posuere in justo vulputate, bibendum sodales.
+            As a UX & Product Designer, I focus on solving real user problems through research, wireframing, prototyping, and usability testing. I believe great design is not just about visuals, but about creating intuitive, efficient, and impactful digital experiences.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-8 w-full">
