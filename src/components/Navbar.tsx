@@ -6,9 +6,9 @@ const Navbar = () => {
     const menuItems = [
         { label: "Home" },
         { label: "About" },
-        { label: "Service" },
+        { label: "Services" },
         { label: "Resume" },
-        { label: "Project" },
+        { label: "Projects" },
         { label: "Contact" },
     ];
     const [selected, setSelected] = useState("Home");
@@ -37,10 +37,10 @@ const Navbar = () => {
             <div className="flex flex-col items-center flex-shrink-0 cursor-pointer">
                 <div className="w-8 h-8 sm:w-9 sm:h-9 lg:w-10 lg:h-10 bg-[#FD853A] rounded-full flex items-center justify-center mb-1">
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
-                        <text x="4" y="18" fontSize="12" fontWeight="bold" fill="white">JC</text>
+                        <text x="4" y="18" fontSize="12" fontWeight="bold" fill="white">AK</text>
                     </svg>
                 </div>
-                <span className="font-bold text-sm sm:text-base lg:text-lg tracking-wide">JCREA</span>
+                <span className="font-bold text-sm sm:text-base lg:text-lg tracking-wide">ANUJ</span>
             </div>
 
             {/* Right Menu (Desktop) */}
