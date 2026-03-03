@@ -60,7 +60,7 @@ export default function Home() {
 
            <div className="absolute bottom-0 z-10 flex justify-center w-full">
   <Image
-    src="/anuj.png"
+    src="/Anuj.png"
     alt="Anuj Kushwah"
     width={430}
     height={600}
