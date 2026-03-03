@@ -35,7 +35,7 @@ export default function Home() {
             <div className="flex flex-col sm:flex-row sm:gap-2 items-center sm:items-end mb-1 mt-6 sm:mt-8">
               <CustomeText title="I&apos;m" className="text-[#171717] font-semibold text-4xl sm:text-5xl md:text-7xl xl:text-[88px]" />
               <div className="flex items-end">
-                <CustomeText title="Abhiruchi" className="text-[#FD853A] font-semibold text-4xl sm:text-5xl md:text-7xl xl:text-[88px]" />
+                <CustomeText title="Anuj Kushwah" className="text-[#FD853A] font-semibold text-4xl sm:text-5xl md:text-7xl xl:text-[88px]" />
                 <CustomeText title="," className="text-[#171717] font-semibold text-4xl sm:text-5xl md:text-7xl xl:text-[88px]" />
               </div>
             </div>
@@ -60,7 +60,7 @@ export default function Home() {
 
             <Image
               src="/girl.svg"
-              alt="abhiruchi"
+              alt="Anuj Kushwah"
               width={952}
               height={636}
               className="relative z-20 w-full h-auto object-contain mt-5"
