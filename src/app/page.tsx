@@ -11,7 +11,7 @@ import ClientOnly from "@/components/ui/ClientOnly";
 
 export default function Home() {
   return (
-    <div className="relative min-h-screen w-full bg-white py-10 flex flex-col items-center justify-start">
+    <div className="relative min-h-screen w-full bg-white py-1+ flex flex-col items-center justify-start">
       <Navbar />
 
       {/* Hero Section */}
