@@ -42,148 +42,104 @@ export interface CardData {
 
 
 
-export const experiences: Experience[] = [
+
+  
+    export const experiences: Experience[] = [
   {
-    company: "Cognizant, Mumbai",
-    duration: "Sep 2016 - July 2020",
-    role: "Experience Designer",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacus nunc, posuere in justo vulputate, bibendum sodales.",
+    company: "Velorent (Startup Project)",
+    duration: "2025 - Present",
+    role: "UX / Product Designer",
+    desc: "Designing a digital vehicle rental platform that helps offline rental vendors manage bookings and customers efficiently.",
     dotColor: "bg-[#FD853A]",
   },
   {
-    company: "Sugee Pvt limited, Mumbai",
-    duration: "Sep 2020 - July 2023",
-    role: "UI/UX Designer",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacus nunc, posuere in justo vulputate, bibendum sodales.",
+    company: "Scanner-Based Restaurant App (Concept)",
+    duration: "2025",
+    role: "UX Designer",
+    desc: "Created a QR-based smart ordering system to reduce wait time and improve dining experience.",
     dotColor: "bg-[#1D2939]",
   },
-  {
-    company: "Cinetstox, Mumbai",
-    duration: "Sep 2023",
-    role: "Lead UX Designer",
-    desc: "",
-    dotColor: "bg-[#FD853A]",
-  },
 ];
+  
 
 export const buttons: string[] = [
-  "Landing Page",
-  "Product Design",
-  "Animation",
-  "Glassmorphism",
-  "Cards",
+  "User Research",
+  "UX Strategy",
+  "Interaction Design",
+  "Prototyping",
+  "Usability Testing",
 ];
 
 export const iconAndText: IconAndText[] = [
   {
     icon: Star,
-    name: "4.9 Average Rating",
+    name: "Research Driven Design",
   },
   {
     icon: Award,
-    name: "25+ Winning Awards",
+    name: "Product Thinking Approach",
   },
   {
     icon: ShieldCheck,
-    name: "Certified Product Design",
+    name: "User-Centered Solutions",
   },
 ];
 
 export const skills: string[] = [
-  "JavaScript",
-  "TypeScript",
-  "Next.js",
-  "React",
-  "Node.js",
-  "Tailwind CSS",
-  "MongoDB",
-  "PostgreSQL",
-  "Express",
+  "User Research",
+  "Wireframing",
+  "User Flows",
+  "Prototyping",
+  "Usability Testing",
+  "Figma",
+  "Design Systems",
+  "Product Strategy",
 ];
 
 export const blogs: Blog[] = [
   {
     image: "/Rectangle 6.svg",
-    button: "Read More",
-    name: "Mahesh Pokale",
-    date: "10 Nov, 2024",
-    title: "Design Unraveled: Behind the Scenes of UI/UX Magic",
+    button: "View Case Study",
+    name: "Anuj Kushwah",
+    date: "2025",
+    title: "Velorent: Designing a Digital Vehicle Rental Platform",
   },
   {
     image: "/Frame 60.svg",
-    button: "Explore",
-    name: "Sarah Johnson",
-    date: "12 Dec, 2024",
-    title: "Mastering Tailwind: Tips for Clean UI Development",
-  },
-  {
-    image: "/Rectangle 6 (1).svg",
-    button: "Check Now",
-    name: "John Doe",
-    date: "1 Jan, 2025",
-    title: "Modern Web Development in 2025",
+    button: "View Case Study",
+    name: "Anuj Kushwah",
+    date: "2025",
+    title: "Improving Restaurant Experience with QR Ordering",
   },
 ];
-
 export const portfolioData: PortfolioItem[] = [
   {
     image: "/Frame 26.svg",
-    title: "Lirante 1",
+    title: "Velorent – Vehicle Rental Platform",
     href: "/project-1",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum ligula a dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis orci elementum egestas lobortis.",
+    desc: "A digital platform that helps offline rental vendors manage bookings and customers efficiently.",
   },
   {
     image: "/Frame 26.svg",
-    title: "Lirante 2",
+    title: "Scanner-Based Restaurant App",
     href: "/project-2",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum ligula a dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis orci elementum egestas lobortis.",
+    desc: "QR-based ordering system to reduce wait time and enhance dining experience.",
   },
   {
     image: "/Frame 26.svg",
-    title: "Lirante 3",
+    title: "App Redesign Case Study",
     href: "/project-3",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum ligula a dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis orci elementum egestas lobortis.",
-  },
-  {
-    image: "/Frame 26.svg",
-    title: "Lirante 4",
-    href: "/project-4",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum ligula a dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis orci elementum egestas lobortis.",
+    desc: "Redesigned an existing app to improve usability and user engagement.",
   },
 ];
 
-export const reviews: Review[] = [
-  {
-    name: "Mahesh Pokale",
-    role: "Web Designer",
-    rating: 5,
-    text: "Consectetur adipiscing elit. Sed congue interdum ligula a dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis orci elementum egestas lobortis.",
-  },
-  {
-    name: "Sarah Johnson",
-    role: "Product Manager",
-    rating: 4,
-    text: "Excellent work! Very professional and meets deadlines consistently. Highly recommended for design and development projects.",
-  },
-  {
-    name: "John Doe",
-    role: "UI/UX Lead",
-    rating: 5,
-    text: "Top quality design and coding. Strong attention to detail and highly collaborative throughout the project lifecycle.",
-  },
-  {
-    name: "Aryan Sharma",
-    role: "Software Engineer",
-    rating: 4,
-    text: "Innovative approach, clean design, and prompt delivery. Will work together again for sure!",
-  },
-];
+export const reviews: Review[] = [];
 
 export const cardData: CardData[] = [
-  { title: "Jewellery Design", imageSrc: "/Rectangle 7.svg" },
-  { title: "Mehndi Expert", imageSrc: "/Rectangle 7.svg" },
-  { title: "Fashion Designer", imageSrc: "/Rectangle 7.svg" },
-  { title: "Craft Expert", imageSrc: "/Rectangle 7.svg" },
-  { title: "Beauty & Imitation", imageSrc: "/Rectangle 7.svg" },
-  { title: "Designer Studio", imageSrc: "/Rectangle 7.svg" },
+  { title: "User Research", imageSrc: "/Rectangle 7.svg" },
+  { title: "UX Strategy", imageSrc: "/Rectangle 7.svg" },
+  { title: "Interaction Design", imageSrc: "/Rectangle 7.svg" },
+  { title: "Prototyping", imageSrc: "/Rectangle 7.svg" },
+  { title: "Usability Testing", imageSrc: "/Rectangle 7.svg" },
+  { title: "Design Systems", imageSrc: "/Rectangle 7.svg" },
 ];
