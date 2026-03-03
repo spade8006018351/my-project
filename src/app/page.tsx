@@ -58,14 +58,15 @@ export default function Home() {
               />
             </div>
 
-           <Image
-  src="/Anuj.png"
-  alt="Anuj Kushwah"
-  width={420}
-  height={600}
-  className="object-contain mx-auto relative z-10"
-/>
-
+           <div className="absolute bottom-0 z-10 flex justify-center w-full">
+  <Image
+    src="/anuj.png"
+    alt="Anuj Kushwah"
+    width={430}
+    height={600}
+    className="object-contain"
+  />
+</div>
             <div className="absolute bottom-[10%] z-30 w-full hidden md:flex justify-center">
               <DualToggleButtons />
             </div>
