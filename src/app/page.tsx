@@ -1,3 +1,4 @@
+
 import Navbar from "@/components/Navbar";
 import CustomeText from "@/components/ui/CustomeText";
 import DualToggleButtons from "@/components/ui/DualButtons";
@@ -58,7 +59,7 @@ export default function Home() {
             </div>
 
             <Image
-              src="/girl.svg"
+              src="/Anuj.png"
               alt="Anuj Kushwah"
               width={952}
               height={636}
