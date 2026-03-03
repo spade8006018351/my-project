@@ -61,8 +61,8 @@ export default function Home() {
            <Image
   src="/Anuj.png"
   alt="Anuj Kushwah"
-  width={952}
-  height={636}
+  width={420}
+  height={600}
   className="object-contain mx-auto relative z-10"
 />
 
