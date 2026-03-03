@@ -19,7 +19,7 @@ export default function Home() {
         <div className="hidden lg:flex flex-col w-[328px] h-[138px] items-start justify-start transition-transform duration-300 ease-in-out group-hover:-translate-y-[250px]">
           <div className="text-[#344054] text-[36px] leading-none">&quot;</div>
           <p className="text-[#344054] text-[16px] font-medium leading-snug">
-            Abhiruchi&apos;s exceptional product design ensured our website&apos;s success.
+            A UX & Product Designer focused on solving real-world problems through research, strategy and user-centered design.
             <br />
             Highly recommended.
           </p>
