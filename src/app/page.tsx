@@ -101,8 +101,7 @@ export default function Home() {
             <CustomeText title="Services" className="font-medium text-3xl sm:text-4xl lg:text-5xl text-[#FD853A]" />
           </div>
           <p className="w-full lg:w-[578px] font-medium text-base sm:text-lg lg:text-[20px] text-white">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacus nunc,
-            posuere in justo vulputate, bibendum sodales
+           I design intuitive and user-centered digital experiences that solve real problems. My focus is on research-driven design, seamless interaction, and visually engaging interfaces that improve usability and deliver meaningful results for users and businesses.
           </p>
         </div>
 
