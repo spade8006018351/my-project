@@ -212,7 +212,7 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row gap-8 w-full">
             <div className="flex flex-col">
               <CustomeText
-                title="450+"
+                title="10+"
                 className="text-[32px] sm:text-[36px] font-medium text-[#1D2939]"
               />
               <CustomeText
@@ -222,11 +222,11 @@ export default function Home() {
             </div>
             <div className="flex flex-col">
               <CustomeText
-                title="450+"
+                title="1+"
                 className="text-[32px] sm:text-[36px] font-medium text-[#1D2939]"
               />
               <CustomeText
-                title="Project Completed"
+                title="Years Experience"
                 className="text-lg text-[#667085]"
               />
             </div>
