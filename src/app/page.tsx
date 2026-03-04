@@ -101,7 +101,7 @@ export default function Home() {
             <CustomeText title="Services" className="font-medium text-3xl sm:text-4xl lg:text-5xl text-[#FD853A]" />
           </div>
           <p className="w-full lg:w-[578px] font-medium text-base sm:text-lg lg:text-[20px] text-white">
-           I design intuitive and user-centered digital experiences that solve real problems. My focus is on research-driven design, seamless interaction, and visually engaging interfaces that improve usability and deliver meaningful results for users and businesses.
+           I design intuitive and user-centered digital experiences that solve real problems through research, interaction design, and usability testing.
           </p>
         </div>
 
