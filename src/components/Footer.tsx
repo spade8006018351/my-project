@@ -9,8 +9,8 @@ const Footer = () => {
     const navigation = ["Home", "About", "Service", "Resume", "Project", "Contact"];
     const iconsAndUrl = [
       
-        { icon: Linkedin, url: "www.linkedin.com/in/anuj-kushwah-985b63382" },
-        { icon: InstagramIcon, url: "https://www.instagram.com/annunjx?igsh=MTVwZWx2ZTBia2FpMA%3D%3D&utm_source=qr/" },
+       { icon: Linkedin, url: "https://www.linkedin.com/in/anuj-kushwah-985b63382" },
+          { icon: InstagramIcon, url: "https://www.instagram.com/annunjx" },
         { icon: MessageCircle, url: "https://wa.me/message/NG6VPMVHRNDAC1" },
         { icon: TwitterIcon, url: "https://twitter.com" },
     ];
