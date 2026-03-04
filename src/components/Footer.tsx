@@ -1,5 +1,5 @@
 import React from "react";
-import { FacebookIcon, YoutubeIcon, InstagramIcon, TwitterIcon, MessageCircle } from "lucide-react";
+import {  Linkedin, InstagramIcon,MessageCircle, TwitterIcon } from "lucide-react";
 import { ArrowUpRight } from "lucide-react";
 import CustomeText from "./ui/CustomeText";
 import Link from "next/link";
@@ -8,10 +8,10 @@ import ClientOnly from "./ui/ClientOnly";
 const Footer = () => {
     const navigation = ["Home", "About", "Service", "Resume", "Project", "Contact"];
     const iconsAndUrl = [
-        { icon: FacebookIcon, url: "https://facebook.com" },
-        { icon: YoutubeIcon, url: "https://youtube.com" },
-        { icon: MessageCircle, url: "https://whatsapp.com" },
-        { icon: InstagramIcon, url: "https://instagram.com" },
+      
+        { icon: Linkedin, url: "www.linkedin.com/in/anuj-kushwah-985b63382" },
+        { icon: InstagramIcon, url: "https://www.instagram.com/annunjx/" },
+        { icon: MessageCircle, url: "https://wa.me/919389898241" },
         { icon: TwitterIcon, url: "https://twitter.com" },
     ];
 
