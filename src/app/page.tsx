@@ -186,7 +186,7 @@ export default function Home() {
             src="/Default.png"
             alt="Hire me"
             fill
-            className="object-contain z-10 scale-[1.20] -translate-y-3 translate-x-6 transition-all duration-300 ease-in-out group-hover:translate-y-3"
+            className="object-contain z-10 scale-[1.20] -translate-y-3 translate-x-10 transition-all duration-300 ease-in-out group-hover:translate-y-3"
             priority
           />
 
