@@ -183,7 +183,7 @@ export default function Home() {
       <div className="w-full flex flex-col lg:flex-row items-center justify-between px-6 lg:px-[71px] py-20 lg:py-[122px] bg-[#F2F4F7] rounded-[32px] lg:rounded-[50px] gap-12 lg:gap-[96px]">
         <div className="relative w-full max-w-[500px] aspect-square group mx-auto lg:mx-0">
           <Image
-            src="/Property 1=Default.svg"
+            src="/Default.png"
             alt="Hire me"
             fill
             className="object-contain z-10 transition-all duration-300 ease-in-out group-hover:translate-y-3"
