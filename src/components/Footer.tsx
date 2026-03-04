@@ -10,8 +10,8 @@ const Footer = () => {
     const iconsAndUrl = [
       
         { icon: Linkedin, url: "www.linkedin.com/in/anuj-kushwah-985b63382" },
-        { icon: InstagramIcon, url: "https://www.instagram.com/annunjx/" },
-        { icon: MessageCircle, url: "https://wa.me/919389898241" },
+        { icon: InstagramIcon, url: "https://www.instagram.com/annunjx?igsh=MTVwZWx2ZTBia2FpMA%3D%3D&utm_source=qr/" },
+        { icon: MessageCircle, url: "https://wa.me/message/NG6VPMVHRNDAC1" },
         { icon: TwitterIcon, url: "https://twitter.com" },
     ];
 
@@ -52,9 +52,10 @@ const Footer = () => {
                                 <text x="4" y="18" fontSize="12" className="sm:text-sm lg:text-base" fontWeight="bold" fill="white">JC</text>
                             </svg>
                         </div>
-                        <span className="font-bold text-base sm:text-lg tracking-wide cursor-pointer">JCREA</span>
+                        <span className="font-bold text-base sm:text-lg tracking-wide cursor-pointer">Anuj</span>
                     </div>
-                    <p className="w-full h-auto lg:h-[61px] text-[16px] sm:text-[18px] lg:text-[20px] text-[#FCFCFD]">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum ligula a dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis orci elementum egestas lobortis.</p>
+                    <p className="w-full h-auto lg:h-[61px] text-[16px] sm:text-[18px] lg:text-[20px] text-[#FCFCFD]">Designing intuitive digital experiences that solve real user problems.
+Let's collaborate to turn ideas into impactful products.</p>
                     <div className="flex gap-2 sm:gap-2.5">
                         {iconsAndUrl.map((item, idx) => {
                             const Icon = item.icon;
