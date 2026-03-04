@@ -16,9 +16,9 @@ const Footer = () => {
     ];
 
     const contact = [
-        "+91 9874563210",
-        "hello@gmail.com",
-        "hello.com"
+        "+91 9389898241",
+        "anujhid80060@gmail.com",
+        "Gmail.com"
     ]
 
     return (
