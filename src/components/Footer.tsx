@@ -55,7 +55,7 @@ const Footer = () => {
                         <span className="font-bold text-base sm:text-lg tracking-wide cursor-pointer">Anuj</span>
                     </div>
                     <p className="w-full h-auto lg:h-[61px] text-[16px] sm:text-[18px] lg:text-[20px] text-[#FCFCFD]">Designing intuitive digital experiences that solve real user problems.
-Let's collaborate to turn ideas into impactful products.</p>
+Let&apos;s collaborate to turn ideas into impactful products.</p>
                     <div className="flex gap-2 sm:gap-2.5">
                         {iconsAndUrl.map((item, idx) => {
                             const Icon = item.icon;
