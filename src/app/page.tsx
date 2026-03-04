@@ -297,7 +297,7 @@ export default function Home() {
               </div>
             </div>
             <p className="text-[16px] sm:text-[18px] lg:text-[20px] text-[#344054] text-center sm:text-left">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue interdum ligula a dignissim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis orci elementum egestas lobortis.
+              A user-centered food delivery platform focused on simple ordering, smooth navigation, and faster checkout for better user experience.
             </p>
           </div>
         </div>
